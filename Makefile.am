@@ -32,6 +32,7 @@ SUBDIRS                                          = \
 EXTRA_DIST                                       = \
     Makefile-bootstrap                             \
     .default-version                               \
+    .github/workflows/build.yml                    \
     bootstrap                                      \
     bootstrap-configure                            \
     build/scripts/gen-strntoul-version             \
